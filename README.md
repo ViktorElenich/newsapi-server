@@ -1,3 +1,3 @@
 # newsapi-server
 
-https://newsapi-server-production.up.railway.app/
+https://newsapi-production-server.onrender.com/
